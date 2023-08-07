@@ -1,6 +1,6 @@
 package ch01;
 
-public class Wizard {
+public class Archer {
 	
 	String name;
 	int hp;
