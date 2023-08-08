@@ -6,4 +6,4 @@ public class Wizard {
 	int hp;
 	int demage;
 
-}
+} // end of class

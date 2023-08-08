@@ -6,4 +6,4 @@ public class Archer {
 	int hp;
 	int demage;
 
-}
+} // end of class
